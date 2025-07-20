@@ -9,7 +9,7 @@ This project provides an API to manage and retrieve Flipkart offers with feature
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flipkart_offer_api.git
+git clone https://github.com/Ritiksingh10/flipkart_offer_api.git
 cd flipkart_offer_api
 ```
 
@@ -24,7 +24,7 @@ npm install
 Create a `.env` file in the root of the project and add your MongoDB URI:
 
 ```env
-MONGODB_URI=your_mongodb_compass_connection_string
+MONGODB_URI=your_mongodbCompass_connection_string
 PORT=2000
 ```
 
